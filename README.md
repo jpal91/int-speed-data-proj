@@ -12,8 +12,8 @@ Using data pulled from the FCC and Census.gov, I extracted broadband data inform
 - MySQL: RDBMS for storing data and ultimatly serving to Tableau
 - Tableau: Data visualization
 - Docker: Nominatim/OpenStreeMap data access
- - Ran the Nominatim Docker image to create a Nominatim DB on my local computer utilzing the service to convert lat/lon pairs to usable data
- - Ultimately I did not end up using this data in the project as I found a more efficient way later on
+  - Ran the Nominatim Docker image to create a Nominatim DB on my local computer utilzing the service to convert lat/lon pairs to usable data
+  - Ultimately I did not end up using this data in the project as I found a more efficient way later on
 
 ### Structure
 This is an ongoing project so the project directories have not been set up in a logical order yet. The notebooks contain some notes and most of the work completed so far, but attempts will be made to clean this up later.
