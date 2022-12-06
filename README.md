@@ -1,4 +1,4 @@
-# Internet Speeds Data Project
+# Small Towns, Big Internet - Data Analytics Project
 
 ### Main Objective
 This is a currently ongoing project as a first attempt on a data visualization project. The question I had was - How many different small towns/cities around the US have better than average internet?
